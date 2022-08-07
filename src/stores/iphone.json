@@ -1,0 +1,117 @@
+[
+	{
+		"id": "1",
+		"title": "Apple iPhone 13",
+		"options": [
+			{ "ram": "128 ГБ", "price": "86990"},
+			{ "ram": "256 ГБ", "price": "95990"},
+			{ "ram": "512 ГБ", "price": "114990"}
+		],
+		"colors": [
+			{ "name": "тёмная ночь", "img": "https://static.re-store.ru/upload/resize_cache/iblock/d01/170_170_1/d0133d5eb09902472f7066e3fa032136.jpg"},
+			{ "name": "розовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/68d/170_170_1/68d04c09791fbccdb3b10b11d3912cb9.jpg"},
+			{ "name": "синий", "img": "https://static.re-store.ru/upload/resize_cache/iblock/ca7/170_170_1/ca7f3399d3d92a6eac11ed365b149e0a.jpg"},
+			{ "name": "зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/cab/170_170_1/cab621a45fa07f0b771469f8bea17bbd.jpg"},
+			{ "name": "сияющая звезда", "img": "https://static.re-store.ru/upload/resize_cache/iblock/149/170_170_1/1493684285c9c5f7e8d66910262a138b.jpg"},
+			{ "name": "RED", "img": "https://static.re-store.ru/upload/resize_cache/iblock/b2c/170_170_1/b2caba8329c87425c37cef30657b2f21.jpg"}
+		]
+	},
+	{
+		"id": "2",
+		"title": "Apple iPhone 13 Mini",
+		"options": [
+			{ "ram": "128 ГБ", "price": "72990"},
+			{ "ram": "256 ГБ", "price": "79990"},
+			{ "ram": "512 ГБ", "price": "99990"}
+		],
+		"colors": [
+			{ "name": "сияющая звезда", "img": "https://static.re-store.ru/upload/resize_cache/iblock/7ea/170_170_1/7eaee4269a7de888a17288b5334f13a3.jpg"},
+			{ "name": "тёмная ночь", "img": "https://static.re-store.ru/upload/resize_cache/iblock/c6e/170_170_1/c6e227a4b6ca78d253169955d06fb207.jpg"},
+			{ "name": "розовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/1bf/170_170_1/1bf7a3494c7b0d887035ffc08a05943a.jpg"},
+			{ "name": "синий", "img": "https://static.re-store.ru/upload/resize_cache/iblock/8d1/170_170_1/8d1ec4d3c2c921413138406ebaee09ef.jpg"},
+			{ "name": "RED", "img": "https://static.re-store.ru/upload/resize_cache/iblock/067/170_170_1/067264827a5653fa06a36b7398ac9011.jpg"}
+		]
+	},
+	{
+		"id": "3",
+		"title": "Apple iPhone 13 Pro",
+		"options": [
+			{ "ram": "128 ГБ", "price": "129990"},
+			{ "ram": "256 ГБ", "price": "139990"},
+			{ "ram": "512 ГБ", "price": "174990"},
+			{ "ram": "1 ТБ", "price": "199990"}
+		],
+		"colors": [
+			{ "name": "альпийский зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/648/170_170_1/6484fdb9fbafdba2d6c22417ca8fc482.jpg"},
+			{ "name": "небесно-голубой", "img": "https://static.re-store.ru/upload/resize_cache/iblock/e06/170_170_1/e0614befa58493aa0919df2dcf8fd476.jpg"},
+			{ "name": "золотой", "img": "https://static.re-store.ru/upload/resize_cache/iblock/039/170_170_1/039180353f966c56067a39c22d826c0a.jpg"},
+			{ "name": "серебристый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/493/170_170_1/4936fd04175321ba45a471bbad330d19.jpg"},
+			{ "name": "графитовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/210/170_170_1/210a6582d1b3de4b82951dafe93acf63.jpg"}
+		]
+	},
+	{
+		"id": "4",
+		"title": "Apple iPhone 13 Pro Max",
+		"options": [
+			{ "ram": "128 ГБ", "price": "139990"},
+			{ "ram": "256 ГБ", "price": "159990"},
+			{ "ram": "512 ГБ", "price": "214990"},
+			{ "ram": "1 ТБ", "price": "244990"}
+			
+		],
+		"colors": [
+			{ "name": "графитовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/65e/170_170_1/65e805131be6d04940018346ca294cc6.jpg"},
+			{ "name": "альпийский зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/80e/170_170_1/80e3b4b5315ec29f81572b39def2c733.jpg"},
+			{ "name": "небесно-голубой", "img": "https://static.re-store.ru/upload/resize_cache/iblock/869/170_170_1/869876d1aed924e5e4ea583993320ce5.jpg"},
+			{ "name": "золотой", "img": "https://static.re-store.ru/upload/resize_cache/iblock/969/170_170_1/969bb3eea208a9f856b80586f71549fa.jpg"},
+			{ "name": "серебристый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/c2f/170_170_1/c2f37924f6efcac78154c583f1bb5c35.jpeg"}
+		]
+	},
+	{
+		"id": "5",
+		"title": "Apple iPhone 12",
+		"options": [
+			{ "ram": "64", "price": "66990"},
+			{ "ram": "128", "price": "72990"},
+			{ "ram": "256", "price": "79990"}
+		],
+		"colors": [
+			{ "name": "чёрный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/2eb/170_170_1/2ebb684ccdfc512243f4787ccc561a4d.jpg"},
+			{ "name": "белый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/4c4/170_170_1/4c4e2a04f98ad270774a0a9b6a283de4.jpg"},
+			{ "name": "синий", "img": "https://static.re-store.ru/upload/resize_cache/iblock/d72/170_170_1/d72943c67465c0d5a78bf5dab5670aac.jpg"},
+			{ "name": "фиолетовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/458/170_170_1/45812ea0a37eae10b9e9c8030468cd64.jpg"},
+			{ "name": "RED", "img": "https://static.re-store.ru/upload/resize_cache/iblock/a94/170_170_1/a9455a7234b7089ceb55b6ea3404d86a.jpg"},
+			{ "name": "зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/00d/170_170_1/00d5476bbd8b67b47d9ef1901ed2b31b.jpg"}
+		]
+	},
+	{
+		"id": "6",
+		"title": "Apple iPhone 12 Mini",
+		"options": [
+			{ "ram": "64", "price": "56990"}
+		],
+		"colors": [
+			{ "name": "фиолетовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/e6e/170_170_1/e6e7c587554b4fa5191967442542926c.jpg"},
+			{ "name": "чёрный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/ee2/170_170_1/ee2a89a806533e3149373dcebb3de51c.jpg"},
+			{ "name": "белый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/f12/170_170_1/f121a042c78bd84a9f4f13b569085260.jpg"},
+			{ "name": "синий", "img": "https://static.re-store.ru/upload/resize_cache/iblock/b85/170_170_1/b85349f259e6770a09a6c314471f2779.jpg"},
+			{ "name": "RED", "img": "https://static.re-store.ru/upload/resize_cache/iblock/64a/170_170_1/64a95ab3bac2ed7cd7b0b178dafee9ed.jpg"},
+			{ "name": "зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/149/170_170_1/1490b83857cee02861d3a0ef89ac7bee.jpg"}
+		]
+	},
+	{
+		"id": "7",
+		"title": "Apple iPhone 11",
+		"options": [
+			{ "ram": "64", "price": "52990"},
+			{ "ram": "128", "price": "57990"}
+		],
+		"colors": [
+			{ "name": "чёрный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/7d6/170_170_1/7d6a7eaed995de9fe0d58a37b4bee2d9.jpg"},
+			{ "name": "белый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/f17/170_170_1/f177b647546ab9bda8707b4f9e70d5e6.jpg"},
+			{ "name": "фиолетовый", "img": "https://static.re-store.ru/upload/resize_cache/iblock/d9f/170_170_1/d9f6bc6300173dbd18cd81f4c71a5cf9.jpg"},
+			{ "name": "RED", "img": "https://static.re-store.ru/upload/resize_cache/iblock/06f/170_170_1/06fbfacc8b39e660af0bfedf9cf9f636.jpg"},
+			{ "name": "зелёный", "img": "https://static.re-store.ru/upload/resize_cache/iblock/72f/170_170_1/72fae901b3f8783ab93b294637ea5ef6.jpg"}
+		]
+	}
+]
